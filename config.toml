@@ -1,5 +1,6 @@
 baseurl = "https://katcipis.github.io/essays/"
 publishDir = "public"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"

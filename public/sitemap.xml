@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/essays/about/</loc>
+    <loc>https://katcipis.github.io/essays/about/</loc>
   </url>
   
   <url>
-    <loc>/essays/categories/</loc>
+    <loc>https://katcipis.github.io/essays/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/essays/</loc>
+    <loc>https://katcipis.github.io/essays/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/essays/tags/</loc>
+    <loc>https://katcipis.github.io/essays/tags/</loc>
     <priority>0</priority>
   </url>
   
