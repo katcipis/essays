@@ -1,4 +1,4 @@
-baseurl = "/essays"
+baseurl = "https://katcipis.github.io/essays/"
 publishDir = "public"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
