@@ -17,6 +17,7 @@ pluralizeListTitles = false
   navbarTitle          = "Future Imperfect"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
+  canonifyURLs = true
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
