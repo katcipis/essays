@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/essays"
 publishDir = "public"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
